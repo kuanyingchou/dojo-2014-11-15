@@ -1,0 +1,10 @@
+/Library/
+/Temp/
+*.swp
+*~
+*.sln
+*.csproj
+-tk2d.asset
+-tk2d.asset.meta
+/Assembly*
+/*.userprefs
